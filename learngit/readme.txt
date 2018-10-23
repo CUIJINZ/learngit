@@ -6,3 +6,4 @@ hahaa.
 I love gakki
 CPP is the best language
 liangjingrua
+my stupid boss failure to pay wages
