@@ -14,3 +14,4 @@ Create a new branch is quick AND simple
 >>>>>>> feature1
 test -no-ff
 work content
+new adapt
