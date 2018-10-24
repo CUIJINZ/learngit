@@ -13,4 +13,13 @@ Create a new branch is quick and simple
 Create a new branch is quick AND simple
 >>>>>>> feature1
 test -no-ff
+<<<<<<< HEAD
 debug
+=======
+work content
+<<<<<<< HEAD
+new new adapt
+=======
+new adapt
+>>>>>>> e096ad7ce1f9ada9365f2ece9d7ef9d576b9ace5
+>>>>>>> dev
