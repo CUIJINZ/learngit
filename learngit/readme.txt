@@ -7,4 +7,8 @@ I love gakki
 CPP is the best language
 liangjingrua
 my stupid boss failure to pay wages
-Create a new branch is quick & simple
+<<<<<<< HEAD
+Create a new branch is quick and simple
+=======
+Create a new branch is quick AND simple
+>>>>>>> feature1
